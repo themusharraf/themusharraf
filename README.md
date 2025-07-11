@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Musharraf</h1> 
-<h3 align="center">Software Engineer — An active creator of practical and innovative libraries for the Open Source and Python ecosystem contributing with a creative mindset and a consistent drive to improve and support the community</h3> 
+<h3 align="center">Software Engineer An active creator of practical and innovative libraries for the Open Source and Python ecosystem contributing with a creative mindset and a  consistent drive to improve and support the community</h3> 
   
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=themusharraf" alt="Musharraf" /></a> </p>
